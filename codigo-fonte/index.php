@@ -1,11 +1,29 @@
 <?php 
 //Conteúdo
-switch ($page) {
-	case home : $content = "home.html";
-	break;
-
-	default :	$content = "home.html";
-}
+if (!$page) 
+	$content = "home.html";
+else
+	switch ($page) {
+		case home : $content = "home.html";
+		break;
+		
+		case brasil : $content = "brasil.php";
+		break;
+		
+		case grandes_regioes : $content = "grandes_regioes.php";
+		break;
+		
+		case uf : $content = "uf.php";
+		break;
+		
+		case capitais : $content = "capitais.php";
+		break;
+		
+		case regioes_metropolitanas : $content = "regioes_metropolitanas.php";
+		break;
+	
+		default :	$content = "home.html";
+	}
 
 ?>
 
@@ -34,7 +52,7 @@ switch ($page) {
     <div id="row">
       <div id="12u">
         <div id="logo">
-          <h1><a href="#" class="mobileUI-site-name">Incidência de dengue no Brasil</a></h1>
+          <h1><a href="." class="mobileUI-site-name">Incidência de dengue no Brasil</a></h1>
           <p>Você faz parte deste grupo.</p>
         </div>
       </div>
@@ -46,10 +64,10 @@ switch ($page) {
             <ul>
               <li class="current_page_item"><a href="index.php?page=home">Home</a></li>
               <li><a href="?page=brasil">Brasil</a></li>
-              <li><a href="?page=grandes-regioes">Grandes Regiões</a></li>
+              <li><a href="?page=grandes_regioes">Grandes Regiões</a></li>
               <li><a href="?page=uf">UF</a></li>
               <li><a href="?page=capitais">Capitais</a></li>
-              <li><a href="?page=regioes-metropolitanas">Regiões Metropolitanas</a></li>
+              <li><a href="?page=regioes_metropolitanas">Regiões Metropolitanas</a></li>
             </ul>
           </nav>
         </div>
