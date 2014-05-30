@@ -29,7 +29,7 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Rio Branco</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>571,41</td>
   <td align=right>711,09</td>
   <td align=right>297,3</td>
@@ -82,7 +82,7 @@
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Macapa</td>
   <td align=right>1,17</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>1058,13</td>
   <td align=right>212,99</td>
   <td align=right>1193,06</td>
@@ -159,8 +159,8 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Joao Pessoa</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>71,78</td>
   <td align=right>144,9</td>
   <td align=right>31,49</td>
@@ -379,3 +379,8 @@
   <td align=right>495,4</td>
  </tr>
 </table>
+
+
+<br/><br/><br/>
+
+<?php include_once 'informacoesAdicionais.php';?>

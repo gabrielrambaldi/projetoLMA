@@ -29,13 +29,13 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>RM de Mac<span style='display:none'>apa</span></td>
-  <td>,,,</td>
-  <td>,,,</td>
-  <td>,,,</td>
-  <td>,,,</td>
-  <td>,,,</td>
-  <td>,,,</td>
-  <td>,,,</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>391,72</td>
   <td align=right>572,68</td>
   <td align=right>124,02</td>
@@ -95,13 +95,13 @@
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>RM de Joao<span style='display:none'><span
   style="mso-spacerun:yes">&nbsp;</span>Pessoa</span></td>
-  <td>,,,</td>
-  <td>,,,</td>
-  <td>,,,</td>
-  <td>,,,</td>
-  <td>,,,</td>
-  <td>,,,</td>
-  <td>,,,</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>61,44</td>
   <td align=right>363,61</td>
   <td align=right>71,62</td>
@@ -203,7 +203,7 @@
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Colar do V<span style='display:none'>ale
   do Aco</span></td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>1,22</td>
   <td align=right>192,62</td>
   <td align=right>386,44</td>
@@ -336,26 +336,26 @@
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Expansao <span style='display:none'>de
   Florianopolis</span></td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>0,93</td>
   <td align=right>3,66</td>
   <td align=right>0,91</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>0,89</td>
   <td align=right>2,65</td>
   <td align=right>0,88</td>
-  <td>-</td>
+  <td align=right>-</td>
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>RM do Vale<span style='display:none'><span
   style="mso-spacerun:yes">&nbsp;</span>do Itajai</span></td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>1</td>
   <td align=right>1,47</td>
   <td align=right>5,44</td>
   <td align=right>0,23</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>0,22</td>
   <td align=right>1,31</td>
   <td align=right>1,71</td>
@@ -364,21 +364,21 @@
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Expansao <span style='display:none'>do
   Vale do Itajai</span></td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>0,62</td>
   <td align=right>1,21</td>
   <td align=right>1,77</td>
   <td align=right>1,16</td>
   <td align=right>0,57</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>1,66</td>
   <td align=right>0,51</td>
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>RM do N/N<span style='display:none'>E
   Catarinense</span></td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>0,22</td>
   <td align=right>0,86</td>
   <td align=right>3,14</td>
@@ -392,8 +392,8 @@
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Expansao <span style='display:none'>do
   N/NE Catarinense</span></td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>0,43</td>
   <td align=right>4,36</td>
   <td align=right>0,61</td>
@@ -411,7 +411,7 @@
   <td align=right>1,51</td>
   <td align=right>9,51</td>
   <td align=right>1,4</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>1,05</td>
   <td align=right>2,81</td>
   <td align=right>4,73</td>
@@ -420,20 +420,20 @@
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Expansao <span style='display:none'>da
   Foz do Itajai</span></td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>9,5</td>
   <td align=right>3,03</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>3,9</td>
   <td align=right>1,29</td>
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>RM Carbon<span style='display:none'>ifera</span></td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>0,35</td>
   <td align=right>0,68</td>
   <td align=right>4,63</td>
@@ -447,24 +447,24 @@
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Expansao <span style='display:none'>da
   Carbonifera</span></td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>8,4</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>2,78</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>2,66</td>
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>RM de Tub<span style='display:none'>arao</span></td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>1,7</td>
   <td align=right>1,67</td>
   <td align=right>5,74</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>0,8</td>
   <td align=right>1,58</td>
   <td align=right>1,56</td>
@@ -475,13 +475,13 @@
   <td height=15 style='height:15.0pt'>Expansao <span style='display:none'>de
   Tubarao</span></td>
   <td align=right>0,51</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>5,16</td>
   <td align=right>0,46</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>0,91</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>3,1</td>
   <td align=right>0,89</td>
  </tr>
@@ -540,3 +540,8 @@
   <td align=right>376,01</td>
  </tr>
 </table>
+
+
+<br/><br/><br/>
+
+<?php include_once 'informacoesAdicionais.php';?>

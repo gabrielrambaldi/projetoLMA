@@ -1,4 +1,6 @@
 <?php 
+require_once 'funcoes.php';		//funcoes
+
 //Conteúdo
 if (!$page) 
 	$content = "home.html";

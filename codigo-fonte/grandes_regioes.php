@@ -1,34 +1,33 @@
-<table border=0 cellpadding=0 cellspacing=0 width=1300 style='border-collapse:
- collapse;table-layout:fixed;width:1300pt'>
- <col width=65 span=20 style='width:65pt'>
+<table border=0 cellpadding=0 cellspacing=0>
+ <col width=45 span=20 style='width:45pt'>
  <tr height=15 style='height:15.0pt'>
-  <td height=15 width=65 style='height:15.0pt;width:65pt'>Regiao</td>
-  <td align=right width=65 style='width:65pt'>1990</td>
-  <td align=right width=65 style='width:65pt'>1991</td>
-  <td align=right width=65 style='width:65pt'>1992</td>
-  <td align=right width=65 style='width:65pt'>1993</td>
-  <td align=right width=65 style='width:65pt'>1994</td>
-  <td align=right width=65 style='width:65pt'>1995</td>
-  <td align=right width=65 style='width:65pt'>1996</td>
-  <td align=right width=65 style='width:65pt'>1997</td>
-  <td align=right width=65 style='width:65pt'>1998</td>
-  <td align=right width=65 style='width:65pt'>1999</td>
-  <td align=right width=65 style='width:65pt'>2000</td>
-  <td align=right width=65 style='width:65pt'>2001</td>
-  <td align=right width=65 style='width:65pt'>2002</td>
-  <td align=right width=65 style='width:65pt'>2003</td>
-  <td align=right width=65 style='width:65pt'>2004</td>
-  <td align=right width=65 style='width:65pt'>2005</td>
-  <td align=right width=65 style='width:65pt'>2006</td>
-  <td align=right width=65 style='width:65pt'>2007</td>
-  <td align=right width=65 style='width:65pt'>2008</td>
+  <td height=15 width=85 style='height:15.0pt;width:85pt'>Regiao</td>
+  <td align=right width=45 style='width:45pt'>1990</td>
+  <td align=right width=45 style='width:45pt'>1991</td>
+  <td align=right width=45 style='width:45pt'>1992</td>
+  <td align=right width=45 style='width:45pt'>1993</td>
+  <td align=right width=45 style='width:45pt'>1994</td>
+  <td align=right width=45 style='width:45pt'>1995</td>
+  <td align=right width=45 style='width:45pt'>1996</td>
+  <td align=right width=45 style='width:45pt'>1997</td>
+  <td align=right width=45 style='width:45pt'>1998</td>
+  <td align=right width=45 style='width:45pt'>1999</td>
+  <td align=right width=45 style='width:45pt'>2000</td>
+  <td align=right width=45 style='width:45pt'>2001</td>
+  <td align=right width=45 style='width:45pt'>2002</td>
+  <td align=right width=45 style='width:45pt'>2003</td>
+  <td align=right width=45 style='width:45pt'>2004</td>
+  <td align=right width=45 style='width:45pt'>2005</td>
+  <td align=right width=45 style='width:45pt'>2006</td>
+  <td align=right width=45 style='width:45pt'>2007</td>
+  <td align=right width=45 style='width:45pt'>2008</td>
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Regiao Norte</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>21,87</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>0,17</td>
   <td align=right>28,86</td>
   <td align=right>23,87</td>
@@ -46,7 +45,7 @@
   <td align=right>306,36</td>
  </tr>
  <tr height=15 style='height:15.0pt'>
-  <td height=15 style='height:15.0pt'>Regiao Nord<span style='display:none'>este</span></td>
+  <td height=15 style='height:15.0pt'>Regiao Nordeste</td>
   <td align=right>38,21</td>
   <td align=right>18,87</td>
   <td>-</td>
@@ -68,7 +67,7 @@
   <td align=right>338,75</td>
  </tr>
  <tr height=15 style='height:15.0pt'>
-  <td height=15 style='height:15.0pt'>Regiao Sude<span style='display:none'>ste</span></td>
+  <td height=15 style='height:15.0pt'>Regiao Sudeste</td>
   <td align=right>35,3</td>
   <td align=right>143,19</td>
   <td align=right>2,61</td>
@@ -91,11 +90,11 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Regiao Sul</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>13,47</td>
   <td align=right>22,17</td>
   <td align=right>3,02</td>
@@ -112,10 +111,10 @@
   <td align=right>7,48</td>
  </tr>
  <tr height=15 style='height:15.0pt'>
-  <td height=15 style='height:15.0pt'>Regiao Centr<span style='display:none'>o-Oeste</span></td>
+  <td height=15 style='height:15.0pt'>Regiao Centro-Oeste</td>
   <td align=right>17,51</td>
   <td align=right>46,1</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>14,83</td>
   <td align=right>58,33</td>
   <td align=right>242,72</td>
@@ -156,3 +155,8 @@
   <td align=right>293,35</td>
  </tr>
 </table>
+
+
+<br/><br/><br/>
+
+<?php include_once 'informacoesAdicionais.php';?>

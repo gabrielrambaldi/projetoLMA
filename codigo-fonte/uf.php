@@ -1,37 +1,36 @@
-<table border=0 cellpadding=0 cellspacing=0 width=1300 style='border-collapse:
- collapse;table-layout:fixed;width:1300pt'>
- <col width=65 span=20 style='width:65pt'>
+<table border=0 cellpadding=0 cellspacing=0>
+ <col width=45 span=20 style='width:45pt'>
  <tr height=15 style='height:15.0pt'>
-  <td height=15 width=65 style='height:15.0pt;width:65pt'>UF</td>
-  <td align=right width=65 style='width:65pt'>1990</td>
-  <td align=right width=65 style='width:65pt'>1991</td>
-  <td align=right width=65 style='width:65pt'>1992</td>
-  <td align=right width=65 style='width:65pt'>1993</td>
-  <td align=right width=65 style='width:65pt'>1994</td>
-  <td align=right width=65 style='width:65pt'>1995</td>
-  <td align=right width=65 style='width:65pt'>1996</td>
-  <td align=right width=65 style='width:65pt'>1997</td>
-  <td align=right width=65 style='width:65pt'>1998</td>
-  <td align=right width=65 style='width:65pt'>1999</td>
-  <td align=right width=65 style='width:65pt'>2000</td>
-  <td align=right width=65 style='width:65pt'>2001</td>
-  <td align=right width=65 style='width:65pt'>2002</td>
-  <td align=right width=65 style='width:65pt'>2003</td>
-  <td align=right width=65 style='width:65pt'>2004</td>
-  <td align=right width=65 style='width:65pt'>2005</td>
-  <td align=right width=65 style='width:65pt'>2006</td>
-  <td align=right width=65 style='width:65pt'>2007</td>
-  <td align=right width=65 style='width:65pt'>2008</td>
+  <td height=15 width=85 style='height:15.0pt;width:85pt'>UF</td>
+  <td align=right width=45 style='width:45pt'>1990</td>
+  <td align=right width=45 style='width:45pt'>1991</td>
+  <td align=right width=45 style='width:45pt'>1992</td>
+  <td align=right width=45 style='width:45pt'>1993</td>
+  <td align=right width=45 style='width:45pt'>1994</td>
+  <td align=right width=45 style='width:45pt'>1995</td>
+  <td align=right width=45 style='width:45pt'>1996</td>
+  <td align=right width=45 style='width:45pt'>1997</td>
+  <td align=right width=45 style='width:45pt'>1998</td>
+  <td align=right width=45 style='width:45pt'>1999</td>
+  <td align=right width=45 style='width:45pt'>2000</td>
+  <td align=right width=45 style='width:45pt'>2001</td>
+  <td align=right width=45 style='width:45pt'>2002</td>
+  <td align=right width=45 style='width:45pt'>2003</td>
+  <td align=right width=45 style='width:45pt'>2004</td>
+  <td align=right width=45 style='width:45pt'>2005</td>
+  <td align=right width=45 style='width:45pt'>2006</td>
+  <td align=right width=45 style='width:45pt'>2007</td>
+  <td align=right width=45 style='width:45pt'>2008</td>
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Rondonia</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>4,38</td>
   <td align=right>1,8</td>
   <td align=right>7,63</td>
@@ -47,16 +46,16 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Acre</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>267,97</td>
   <td align=right>354,98</td>
   <td align=right>151,97</td>
@@ -69,14 +68,14 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Amazonas</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>551,2</td>
   <td align=right>201,79</td>
   <td align=right>224,67</td>
@@ -91,12 +90,12 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Roraima</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>165,5</td>
   <td align=right>149,31</td>
   <td align=right>98,96</td>
@@ -113,11 +112,11 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Para</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>0,51</td>
   <td align=right>5,82</td>
   <td align=right>369,46</td>
@@ -135,17 +134,17 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Amapa</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>6,18</td>
   <td align=right>0,91</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>642,17</td>
   <td align=right>166,11</td>
   <td align=right>755,37</td>
@@ -157,10 +156,10 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Tocantins</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>238,51</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>1,82</td>
   <td align=right>317,08</td>
   <td align=right>187,39</td>
@@ -179,11 +178,11 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Maranhao</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>33,95</td>
   <td align=right>120,87</td>
   <td align=right>115,23</td>
@@ -201,10 +200,10 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Piaui</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>0,97</td>
   <td align=right>119,63</td>
   <td align=right>216,12</td>
@@ -225,7 +224,7 @@
   <td height=15 style='height:15.0pt'>Ceara</td>
   <td align=right>250,07</td>
   <td align=right>105,28</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>0,11</td>
   <td align=right>711,88</td>
   <td align=right>29,65</td>
@@ -246,10 +245,10 @@
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Rio Grande d<span style='display:none'>o
   Norte</span></td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>13,56</td>
   <td align=right>200,63</td>
   <td align=right>258,26</td>
@@ -268,11 +267,11 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Paraiba</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>50,93</td>
   <td align=right>365,08</td>
   <td align=right>1581,79</td>
@@ -290,11 +289,11 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Pernambuco</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>134,07</td>
   <td align=right>307,09</td>
   <td align=right>436,96</td>
@@ -314,7 +313,7 @@
   <td height=15 style='height:15.0pt'>Alagoas</td>
   <td align=right>11,94</td>
   <td align=right>52,38</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>29,99</td>
   <td align=right>13</td>
   <td align=right>29,57</td>
@@ -334,12 +333,12 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Sergipe</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>194,7</td>
   <td align=right>675,07</td>
   <td align=right>1620,91</td>
@@ -356,10 +355,10 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Bahia</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>15,18</td>
   <td align=right>272,87</td>
   <td align=right>513,77</td>
@@ -378,11 +377,11 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Minas Gerais</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>1,82</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>23,93</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>17,16</td>
   <td align=right>31,49</td>
   <td align=right>31,68</td>
@@ -400,11 +399,11 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Espirito Sant<span style='display:none'>o</span></td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>97,79</td>
   <td align=right>203,91</td>
   <td align=right>453,33</td>
@@ -446,7 +445,7 @@
   <td height=15 style='height:15.0pt'>Sao Paulo</td>
   <td align=right>6,72</td>
   <td align=right>11,59</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>1,99</td>
   <td align=right>1,73</td>
   <td align=right>17,95</td>
@@ -466,11 +465,11 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Parana</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>35,76</td>
   <td align=right>57,76</td>
   <td align=right>7,83</td>
@@ -488,12 +487,12 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Santa Catari<span style='display:none'>na</span></td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>0,06</td>
   <td align=right>0,1</td>
   <td align=right>2,78</td>
@@ -511,14 +510,14 @@
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Rio Grande d<span style='display:none'>o
   Sul</span></td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>0,09</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>1,08</td>
   <td align=right>0,2</td>
   <td align=right>0,17</td>
@@ -536,7 +535,7 @@
   style="mso-spacerun:yes">&nbsp;</span>do Sul</span></td>
   <td align=right>92,3</td>
   <td align=right>244,11</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>30,81</td>
   <td align=right>61,32</td>
   <td align=right>267,4</td>
@@ -556,9 +555,9 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Mato Grosso</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>41,23</td>
   <td align=right>60,84</td>
   <td align=right>502,58</td>
@@ -578,10 +577,10 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Goias</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>78,83</td>
   <td align=right>190,11</td>
   <td align=right>139,89</td>
@@ -600,12 +599,12 @@
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Distrito Fede<span style='display:none'>ral</span></td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
-  <td>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
+  <td align=right>-</td>
   <td align=right>0,76</td>
-  <td>-</td>
+  <td align=right>-</td>
   <td align=right>4,67</td>
   <td align=right>37,77</td>
   <td align=right>144,28</td>
@@ -643,3 +642,8 @@
   <td align=right>293,35</td>
  </tr>
 </table>
+
+
+<br/><br/><br/>
+
+<?php include_once 'informacoesAdicionais.php';?>

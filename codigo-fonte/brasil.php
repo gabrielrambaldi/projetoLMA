@@ -1,27 +1,26 @@
-<table border=0 cellpadding=0 cellspacing=0 width=1300 style='border-collapse:
- collapse;table-layout:fixed;width:1300pt'>
- <col width=65 span=20 style='width:65pt'>
+<table border=0 cellpadding=0 cellspacing=0>
+ <col width=45 span=20 style='width:45pt'>
  <tr height=15 style='height:15.0pt'>
-  <td height=15 width=65 style='height:15.0pt;width:65pt'>Brasil</td>
-  <td align=right width=65 style='width:65pt'>1990</td>
-  <td align=right width=65 style='width:65pt'>1991</td>
-  <td align=right width=65 style='width:65pt'>1992</td>
-  <td align=right width=65 style='width:65pt'>1993</td>
-  <td align=right width=65 style='width:65pt'>1994</td>
-  <td align=right width=65 style='width:65pt'>1995</td>
-  <td align=right width=65 style='width:65pt'>1996</td>
-  <td align=right width=65 style='width:65pt'>1997</td>
-  <td align=right width=65 style='width:65pt'>1998</td>
-  <td align=right width=65 style='width:65pt'>1999</td>
-  <td align=right width=65 style='width:65pt'>2000</td>
-  <td align=right width=65 style='width:65pt'>2001</td>
-  <td align=right width=65 style='width:65pt'>2002</td>
-  <td align=right width=65 style='width:65pt'>2003</td>
-  <td align=right width=65 style='width:65pt'>2004</td>
-  <td align=right width=65 style='width:65pt'>2005</td>
-  <td align=right width=65 style='width:65pt'>2006</td>
-  <td align=right width=65 style='width:65pt'>2007</td>
-  <td align=right width=65 style='width:65pt'>2008</td>
+  <td height=15 width=45 style='height:15.0pt;width:45pt'>Brasil</td>
+  <td align=right width=45 style='width:45pt'>1990</td>
+  <td align=right width=45 style='width:45pt'>1991</td>
+  <td align=right width=45 style='width:45pt'>1992</td>
+  <td align=right width=45 style='width:45pt'>1993</td>
+  <td align=right width=45 style='width:45pt'>1994</td>
+  <td align=right width=45 style='width:45pt'>1995</td>
+  <td align=right width=45 style='width:45pt'>1996</td>
+  <td align=right width=45 style='width:45pt'>1997</td>
+  <td align=right width=45 style='width:45pt'>1998</td>
+  <td align=right width=45 style='width:45pt'>1999</td>
+  <td align=right width=45 style='width:45pt'>2000</td>
+  <td align=right width=45 style='width:45pt'>2001</td>
+  <td align=right width=45 style='width:45pt'>2002</td>
+  <td align=right width=45 style='width:45pt'>2003</td>
+  <td align=right width=45 style='width:45pt'>2004</td>
+  <td align=right width=45 style='width:45pt'>2005</td>
+  <td align=right width=45 style='width:45pt'>2006</td>
+  <td align=right width=45 style='width:45pt'>2007</td>
+  <td align=right width=45 style='width:45pt'>2008</td>
  </tr>
  <tr height=15 style='height:15.0pt'>
   <td height=15 style='height:15.0pt'>Brasil</td>
@@ -46,3 +45,8 @@
   <td align=right>293,35</td>
  </tr>
 </table>
+
+
+<br/><br/><br/>
+
+<?php include_once 'informacoesAdicionais.php';?>
