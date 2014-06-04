@@ -34,7 +34,7 @@ else
 <head>
 <title>Projeto LMA - Universa</title>
 <meta charset="UTF-8"> 
-<noscript>
+  <noscript>
 <link rel="stylesheet" href="css/5grid/core.css">
 <link rel="stylesheet" href="css/5grid/core-desktop.css">
 <link rel="stylesheet" href="css/5grid/core-1200px.css">

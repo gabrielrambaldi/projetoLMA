@@ -1,5 +1,11 @@
-<table border=0 cellpadding=0 cellspacing=0 width=715 style='border-collapse:
- collapse;table-layout:fixed;width:715pt'>
+<h2>Incidência de dengue nas capitais do Brasil</h2>
+
+<h3>N&uacute;mero de casos de dengue por cada 100.000 habitantes de 1999 a 2008</h3>
+
+<br/><br/>
+
+
+<table>
  <col width=65 span=11 style='width:65pt'>
  <tr height=15 style='height:15.0pt'>
   <td height=15 width=65 style='height:15.0pt;width:65pt'>Capital</td>

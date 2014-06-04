@@ -1,4 +1,11 @@
-<table border=0 cellpadding=0 cellspacing=0>
+<h2>Incidência de dengue nas UFs do Brasil</h2>
+
+<h3>N&uacute;mero de casos de dengue por cada 100.000 habitantes de 1990 a 2008</h3>
+
+<br/><br/>
+
+
+<table>
  <col width=45 span=20 style='width:45pt'>
  <tr height=15 style='height:15.0pt'>
   <td height=15 width=85 style='height:15.0pt;width:85pt'>UF</td>
