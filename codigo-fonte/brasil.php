@@ -93,10 +93,13 @@
 			, "2005"
 			, "2006"
 			, "2007"
-			, "2008")) ?>
+			, "2008"));
+
+
+
+?>
+
 <img src="<?php echo $grafico ?>" title="Grafico gerado pelo Google Chart" />
-
-
 
 <br/><br/><br/>
 

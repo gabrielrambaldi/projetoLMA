@@ -9,6 +9,9 @@ else
 		case home : $content = "home.html";
 		break;
 		
+		case dengue_eleicoes : $content = "dengue_eleicoes.php";
+		break;
+		
 		case brasil : $content = "brasil.php";
 		break;
 		
@@ -65,6 +68,7 @@ else
           <nav class="mobileUI-site-nav">
             <ul>
               <li class="current_page_item"><a href="index.php?page=home">Home</a></li>
+              <li><a href="?page=dengue_eleicoes">A dengue e as eleições</a></li>
               <li><a href="?page=brasil">Brasil</a></li>
               <li><a href="?page=grandes_regioes">Grandes Regiões</a></li>
               <li><a href="?page=uf">UF</a></li>
